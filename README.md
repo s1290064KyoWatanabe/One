@@ -1,5 +1,7 @@
 ## The environment: Google Colab
-We make two functions
+A Google Colab environment may be needed to perform these programming.
+
+## We make two functions
 
  The first function is "word_count".
  
